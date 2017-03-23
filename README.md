@@ -1,4 +1,5 @@
 # thinkocaml
+NOTICE!! I found another project to do the same thing, so I'm going to fork that and work on it instead.
 Attempt a version based on F#
 
 This book has been around for many years (First edition was published in April 2002 as _How to Think Like a Computer Scientist_).
